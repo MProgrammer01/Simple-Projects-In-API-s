@@ -1,0 +1,68 @@
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\appsettings.Development.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\appsettings.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\GetImageFromServer.exe
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\GetImageFromServer.deps.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\GetImageFromServer.runtimeconfig.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\GetImageFromServer.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\GetImageFromServer.pdb
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.csproj.AssemblyReference.cache
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.AssemblyInfoInputs.cache
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.AssemblyInfo.cs
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.csproj.CoreCompileInputs.cache
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets\msbuild.GetImageFromServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets\msbuild.build.GetImageFromServer.props
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GetImageFromServer.props
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GetImageFromServer.props
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\scopedcss\bundle\GetImageFromServer.styles.css
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.csproj.CopyComplete
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\refint\GetImageFromServer.dll
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.pdb
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\GetImageFromServer.genruntimeconfig.cache
+C:\Temp\Upload Image to a Folder - Copy\GetImageFromFolder\obj\Debug\net8.0\ref\GetImageFromServer.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\appsettings.Development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\appsettings.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.staticwebassets.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.exe
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.deps.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.runtimeconfig.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\GetImageFromServer.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.AssemblyInfoInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.AssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.MvcApplicationPartsAssemblyInfo.cs
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.MvcApplicationPartsAssemblyInfo.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\scopedcss\bundle\GetImageFromServer.styles.css
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\swae.build.ex.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImage.2298D053.Up2Date
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\refint\GetImageFromServer.dll
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.pdb
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\GetImageFromServer.genruntimeconfig.cache
+D:\learn_c++\learn_c++\Introduction to RESTful API\GetImageFromServer\GetImageFromServer\obj\Debug\net8.0\ref\GetImageFromServer.dll

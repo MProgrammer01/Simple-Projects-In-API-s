@@ -1,0 +1,64 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GetImageFromServer",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ImageUpload/Upload": {
+      "post": {
+        "tags": [
+          "ImageUpload"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "imageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "imageFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/ImageUpload/GetImage/{fileName}": {
+      "get": {
+        "tags": [
+          "ImageUpload"
+        ],
+        "parameters": [
+          {
+            "name": "fileName",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
