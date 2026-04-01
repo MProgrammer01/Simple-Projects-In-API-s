@@ -1,0 +1,6 @@
+@FistRestProject_HostAddress = http://localhost:5173
+
+GET {{FistRestProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

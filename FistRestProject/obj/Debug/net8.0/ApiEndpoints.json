@@ -1,0 +1,104 @@
+[
+  {
+    "ContainingType": "FistRestProject.Controllers.MyFirstApiController",
+    "Method": "GetMyAge",
+    "RelativePath": "api/MyFirstApi/EndPoint(Function) For Get Age",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FistRestProject.Controllers.MyFirstApiController",
+    "Method": "GetMyName",
+    "RelativePath": "api/MyFirstApi/EndPoint(Function) For Get Name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FistRestProject.Controllers.MyFirstApiController",
+    "Method": "MultipleTowNumbers",
+    "RelativePath": "api/MyFirstApi/EndPoint(Function) For Multiple Tow Numbers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FistRestProject.Controllers.MyFirstApiController",
+    "Method": "SumTowNumbers",
+    "RelativePath": "api/MyFirstApi/EndPoint(Function) For Sum Tow Numbers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
