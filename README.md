@@ -34,7 +34,7 @@
 <div>
   <details>
 <summary><strong>❗اشارة</strong></summary>
-<br><strong>يجب ان تكون فاهم المفاهيم الاساسية الخاصة بال API's.</strong> 
+<br><strong>يجب أن تكون على دراية بالمفاهيم الأساسية للـ APIs و C#.</strong> 
 </details>
 </div>
 
