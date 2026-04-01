@@ -59,10 +59,12 @@
 ```
 Simple-Projects-In-API-s/
 │
-├── project-1/
-│
-├── project-2/
-│
+├── API Development Projects
+    │──project-1/
+    │──project-2/
+├── API Consumption Projects
+    │──project-1/
+    │──project-2/
 ├── ..........
 ```
 
